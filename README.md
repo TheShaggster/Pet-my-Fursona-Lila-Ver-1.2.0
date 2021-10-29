@@ -20,3 +20,7 @@ Enjoy the game.
 # Developer Notes:
 This game is being updated as frequently as possible
 (There may be a few minor bugs in this by the way.)
+
+# Turbowarp Link and Scratch Link:
+https://scratch.mit.edu/projects/590971348/
+https://turbowarp.org/590971348
